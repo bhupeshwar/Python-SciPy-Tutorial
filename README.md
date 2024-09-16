@@ -42,6 +42,10 @@ The mac doesn’t have the preinstall package manager, but you can install vario
 ![image](https://github.com/user-attachments/assets/15301088-ee9b-4aa2-bdcf-52d5ceca98b4)
 
 
+![image](https://github.com/user-attachments/assets/cd16a26f-db0b-4e2b-88d1-3957ae5d987a)
+
+
+
 
 
 
